@@ -1,0 +1,1 @@
+webpackJsonp([2],{52:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=n(1),u=function(e){return e&&e.__esModule?e:{default:e}}(l),a=n(26);t.default=(0,a.withSiteData)(function(){return u.default.createElement("div",null,u.default.createElement("h1",{style:{textAlign:"center"}},"Welcome to Game Rating"))})}});
