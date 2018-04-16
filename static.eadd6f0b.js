@@ -67,7 +67,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "https://summerwang1028.github.io/game-rating-frontend/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 12);
@@ -1795,4 +1795,4 @@ module.exports = require("axios");
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.bb1e8381.js.map
+//# sourceMappingURL=static.eadd6f0b.js.map
